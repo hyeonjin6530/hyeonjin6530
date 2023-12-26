@@ -5,28 +5,28 @@
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> &nbsp;
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/> &nbsp;
-<img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> &nbsp;
+<img src="https://img.shields.io/badge/c++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/></a> &nbsp;
 <br /> <br /> 
-  <img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=white">
-<img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white"/> &nbsp;
-<img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a> &nbsp; <p/>
+  <img src="https://img.shields.io/badge/react-61DAFB?style=flat&logo=react&logoColor=white"> &nbsp
+<img src="https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white"/> &nbsp;
+<img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white"> &nbsp
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/></a> &nbsp; <p/>
 <br />
 
 <a href="#">
-<img src = https://github-readme-stats.vercel.app/api?username=hyeonjin6530&show_icons=true&theme=radical height = "180px" width = "50%"> &nbsp
+<img src = https://github-readme-stats.vercel.app/api?username=hyeonjin6530&show_icons=true&theme=graywhite height = "180px" width = "50%"> &nbsp
 </a>
 <a href="#">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeonjin6530&theme=react&exclude_repo=Jagi,assignment&layout=compact" height="180px" width = "40%">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeonjin6530&theme=graywhite&exclude_repo=Jagi,assignment&layout=compact" height="180px" width = "40%">
 </a>
 <br />
 
 <h2 align="center"><b> ☎ Contact ☎ </b></h2>
 
 <p align="center">
-  <a href="mailto:jjini6530@kookmin.ac.kr"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=viliketh1s98@naver.com"/></a>&nbsp&nbsp
-  <a href="https://www.instagram.com/hyeonjin___e/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/woo0_hooo/"/></a>&nbsp&nbsp
+  <a href="mailto:jjini6530@kookmin.ac.kr"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=viliketh1s98@naver.com"/></a>&nbsp&nbsp
+  <a href="https://www.instagram.com/hyeonjin___e/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=Instagram&logoColor=white&link=https://www.instagram.com/woo0_hooo/"/></a>&nbsp&nbsp
   </p>
 <br/>
 
-![Footer](http://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
+![Footer](http://capsule-render.vercel.app/api?type=waving&color=F6CEE3&height=200&section=footer)
