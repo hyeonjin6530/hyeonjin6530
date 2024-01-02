@@ -12,13 +12,14 @@
 <img src="https://img.shields.io/badge/css-1572B6?style=flat&logo=css3&logoColor=white"> &nbsp
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=JavaScript&logoColor=white"/></a> &nbsp; <p/>
 <br />
-
-<a href="#">
-<img src = https://github-readme-stats.vercel.app/api?username=hyeonjin6530&show_icons=true&theme=graywhite height = "180px" width = "50%"> &nbsp
-</a>
+<p align="center">
+  <a href="https://solved.ac/cola1876/">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=cola1876" alt="Solved.ac Profile" />
+  </a>
 <a href="#">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hyeonjin6530&theme=graywhite&exclude_repo=Jagi,assignment&layout=compact" height="180px" width = "40%">
 </a>
+</p>
 <br />
 
 <h2 align="center"><b> ☎ Contact ☎ </b></h2>
