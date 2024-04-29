@@ -1,5 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=F6CEE3&height=250&text=Heonjin6530&fontColor=ffffff&stroke=6E6E6E)
 
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/hyeonjin6530?pet-id=1" width="1000" height="120"/>
+</a>
+
 <h2 align="center"><b> 🛠 Stacks 🛠 </b></h2>
 <h4 align="center">Stacks that I've used at least once <h4>
 <p align="center">
