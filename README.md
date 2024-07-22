@@ -4,7 +4,7 @@
   <img src="https://render.gitanimals.org/lines/hyeonjin6530?pet-id=601472902667653844" width="1000" height="120"/>
 </a>
 
-<h2 align="center"><b> 🛠 Stacks 🛠 </b></h2>
+<h3 align="center"><b> 🛠 Stacks 🛠 </b></h3>
 <p align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> &nbsp;
   <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/> &nbsp;
@@ -25,7 +25,7 @@
 </p>
 <br />
 
-<h2 align="center"><b> ☎ Contact ☎ </b></h2>
+<h3 align="center"><b> 🍥 Contact 🍥 </b></h3>
 
 <p align="center">
   <a href="mailto:jjini6530@kookmin.ac.kr"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat&logo=Gmail&logoColor=white&link=viliketh1s98@naver.com"/></a>&nbsp&nbsp
