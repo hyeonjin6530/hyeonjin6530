@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=F6CEE3&height=250&text=Heonjin6530&fontColor=ffffff&stroke=6E6E6E)
+![header](https://capsule-render.vercel.app/api?type=waving&color=F6CEE3&height=250&text=Hyeonjin6530&fontColor=ffffff&stroke=6E6E6E)
 
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/lines/hyeonjin6530?pet-id=601472902667653844" contribution-view=false width="1000" height="120"/>
