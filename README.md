@@ -1,3 +1,6 @@
+<img width="1298" height="448" alt="image" src="https://github.com/user-attachments/assets/379f7613-7829-441c-a82a-53e7c7f83dc8" />
+
+
 
 <h3 align='left'>🎓 Education</h3>
 
