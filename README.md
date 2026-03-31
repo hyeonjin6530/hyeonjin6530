@@ -27,10 +27,16 @@
 
 <div align='left'>
 
+- 감성 분석 기반 음료 추천 플랫폼 '<a href="https://github.com/D-LINK-alpha/D-LINK-frontend">D:LINK</a>' 프론트엔드 개발 및 디자인 (2024.03 - 2024.05)
+- 대학생 어휘력·문해력 성장 서비스 '<a href="https://github.com/KokotonTeam6/frontend">세종대완</a>' 프론트엔드 개발 및 UI/UX 설계 (2024.09 - 2024.09)
+- 공유 캘린더 및 투두 서비스 '<a href="https://github.com/2024-WINK-Project-PlanList/front-end">PlanList</a>' 팀장 및 프론트엔드 개발 (2024.07 - 2024.09)
+- AI 기반 회의 지원 플랫폼 '<a href="https://github.com/D-X-W-Clerker/clerker-frontend">Clerker</a>' 부팀장 및 프론트엔드 개발 (2024.08 - 2024.10)
+- 국민대학교 복지물품대여 서비스 '<a href="https://github.com/billilge/frontend">빌릴게 2.0</a>' 프론트엔드 개발 및 기획 (2025.01 - 2025.06)
 - Human-in-the-loop 기반의 노코드 병리 AI 서비스 '<a href="https://github.com/hyeonjin6530/capstone-2025-08">PathOs</a>' Frontend 개발 (2025.01 - 2025.05)
+- 클릭 로그 기반 개인화 채용 추천 시스템 '<a href="https://github.com/zighangbok/Frontend">직행복</a>' 프론트엔드 개발 및 UI/UX 설계 (2025.05 - 2025.07)
 - SNUH BMI-LAB 내부 업무 관리 시스템 '<a href="https://github.com/SNUH-BMI-LAB-Web-Project/snuh-bmilab-web-client">BMI-LAB Web</a>' 팀장 및 Frontend 개발 (2025.06 - 2026.02)
 - SNUH BMI-LAB 서버 관리 웹 서비스 '<a href="https://github.com/ima9ine4/SNUH-BMI-SERVER-FRONT">BMI-LAB Server</a>' Frontend 개발 (2025.08 - 2025.09)
-- SNUH BMI-LAB 공통데이터모델 활용 편의성 증대를 위한 웹 기반 연구 지원 플랫폼 '<a href="https://github.com/bgw4399/bento_frontend_react">BMI-LAB Server</a>' 팀장 및 Frontend 개발 (2025.08 - 2025.12)
+- SNUH BMI-LAB 공통데이터모델 활용 편의성 증대를 위한 웹 기반 연구 지원 플랫폼 '<a href="https://github.com/bgw4399/bento_frontend_react">Canvas</a>' 팀장 및 Frontend 개발 (2025.08 - 2025.12)
 - 핵심 금융 법령과 규정을 쉽고 간단하게 알려주는 금융 법률 챗봇 애플리케이션 '<a href="https://github.com/Law-Chat/lawchat_frontend">Law Chat</a>' Frontend 개발 (2025.09 - 2025.11)
 
 </div>
