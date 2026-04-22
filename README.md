@@ -79,8 +79,7 @@
 <h3 align='left'>🐰 About Me & Contact</h3>
 <div align='left'>
 <a href="https://github.com/hyeonjin6530/"><img alt="RED" src ="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
-<a [href="mailto:jjini6530@kookmin.ac.kr](mailto:href=%22mailto:jjini6530@kookmin.ac.kr)"><img src="https://img.shields.io/badge/Gmail-E34F26?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jjini6530@kookmin.ac.kr"/></a>
-<a href="https://www.instagram.com/hyeonjin___e/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/woo0_hooo/"/></a>&nbsp&nbsp
+<a [href="mailto:jjini6530@kookmin.ac.kr](mailto:href=%22mailto:jjini6530@kookmin.ac.kr)"><img src="https://img.shields.io/badge/Gmail-E34F26?style=flat-square&logo=Gmail&logoColor=white&link=mailto:jjini6530@kookmin.ac.kr"/></a>&nbsp&nbsp
   </p>
 
 <br/>
